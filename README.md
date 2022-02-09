@@ -2,6 +2,8 @@
 
 An app that allows the user to navigate through reviews for a list of games, create a profile and add their comments.
 
+Deloyed on Netlify : https://reviews-games.netlify.app/
+
 REST api
 Data was provided and kept in backend. 
 PSQL, express, jest, React.
