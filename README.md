@@ -4,6 +4,8 @@ An app that allows the user to navigate through reviews for a list of games, cre
 
 Deloyed on Netlify : https://reviews-games.netlify.app/
 
+Backend : https://github.com/NatassaV/myGames
+
 REST api
 Data was provided and kept in backend. 
 PSQL, express, jest, React.
